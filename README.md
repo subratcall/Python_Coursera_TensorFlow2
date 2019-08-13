@@ -1,2 +1,2 @@
-# Python_Coursera_TensorFlow
-Python_Coursera_TensorFlow
+# Python_Coursera_TensorFlow2
+Python_Coursera_TensorFlow2
